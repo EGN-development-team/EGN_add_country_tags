@@ -1052,10 +1052,6 @@
  JRS_DEF:0 "エルサレム"
  JRS_ADJ:0 "エルサレム"
  
- KFT:0 "樺太"
- KFT_DEF:0 "樺太"
- KFT_ADJ:0 "樺太"
- 
  SKM:0 "シッキム"
  SKM_DEF:0 "シッキム"
  SKM_ADJ:0 "シッキム"
@@ -1147,6 +1143,10 @@
  KIR:0 "キリバス"
  KIR_DEF:0 "キリバス"
  KIR_ADJ:0 "キリバス"
+ 
+ MHL:0 "マーシャル"
+ MHL_DEF:0 "マーシャル"
+ MHL_ADJ:0 "マーシャル"
  
  NMR:0 "ナウル"
  NMR_DEF:0 "ナウル"

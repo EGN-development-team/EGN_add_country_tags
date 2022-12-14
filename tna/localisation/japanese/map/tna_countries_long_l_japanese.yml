@@ -203,8 +203,8 @@
  
  
  
- SPR_republic:0 "スペイン共和国"
- SPR_republic_DEF:0 "スペイン共和国"
+ SPR_kingdom:0 "スペイン王国"
+ SPR_kingdom_DEF:0 "スペイン王国"
  
  
  SWE_kingdom:0 "スウェーデン王国"
@@ -389,7 +389,6 @@
  JRS_international_special_administrative_region:0 "エルサレム国際特別行政区"
  JRS_international_special_administrative_region_DEF:0 "エルサレム国際特別行政区"
  
- 
  SKM_kingdom:0 "シッキム王国"
  SKM_kingdom_DEF:0 "シッキム王国"
  
@@ -418,6 +417,8 @@
  NTL_kingdom:0 "ネーデルラント王国"
  NTL_kingdom_DEF:0 "ネーデルラント王国"
  
+ RUS_empire:0 "ロシア帝国"
+ RUS_empire_DEF:0 "ロシア帝国"
  
  SMR_most_serene_republic:0 "晴朗極まる共和国サンマリノ"
  SMR_most_serene_republic_DEF:0 "晴朗極まる共和国サンマリノ"
@@ -433,6 +434,7 @@
 #新大陸
  
 #大洋州
+ 
  
  
  
