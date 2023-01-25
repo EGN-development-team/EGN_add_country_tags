@@ -1037,25 +1037,45 @@ TAH = {	#タヒチ
 
 ##追加国家
 #アジア
+BAL = {	#バルチスタン
+	color = rgb { 0 66 38 }
+	color_ui = rgb { 0 66 38 }
+}
 BRN = {	#ブルネイ
 	color = rgb { 247 224 23 }
 	color_ui = rgb { 247 224 23 }
-}
-CCS = {	#コーカサス
-	color = rgb { 255 127 80 }
-	color_ui = rgb { 255 127 80 }
 }
 DLI = {	#大連
 	color = rgb { 0 33 99 }
 	color_ui = rgb { 0 33 99 }
 }
+DVN = {	#ドラヴィダ・ナードゥ
+	color = rgb { 138 38 69 }
+	color_ui = rgb { 138 38 69 }
+}
+HAS = {	#ハシーム
+	color = rgb { 163 30 35 }
+	color_ui = rgb { 163 30 35 }
+}
+HND = {	#ヒンドゥスタン
+	color = rgb { 255 102 0 }
+	color_ui = rgb { 255 102 0 }
+}
 INC = {	#インドシナ
 	color = rgb { 255 255 0 }
 	color_ui = rgb { 255 255 0 }
 }
+INO = {	#インド洋
+	color = rgb { 70 0 150 }
+	color_ui = rgb { 70 0 150 }
+}
 JRS = {	#エルサレム
 	color = rgb { 151 127 22 }
 	color_ui = rgb { 151 127 22 }
+}
+KAS = {	#カシミール
+	color = rgb { 255 147 147 }
+	color_ui = rgb { 255 147 147 }
 }
 SKM = {	#シッキム
 	color = rgb { 253 36 30 }
@@ -1073,10 +1093,6 @@ TLS = {	#東ティモール
 	color = rgb { 255 199 38 }
 	color_ui = rgb { 255 199 38 }
 }
-TRK = {	#トルキスタン
-	color = rgb { 74 155 220 }
-	color_ui = rgb { 74 155 220 }
-}
 TWN = {	#台湾
 	color = rgb { 0 0 128 }
 	color_ui = rgb { 0 0 128 }
@@ -1087,13 +1103,9 @@ ADR = {	#アンドラ
 	color = rgb { 245 208 102 }
 	color_ui = rgb { 245 208 102 }
 }
-BLT = {	#バルト
-	color = rgb { 142 142 128 }
-	color_ui = rgb { 142 142 128 }
-}
-BYZ = {	#ビザンツ
-	color = rgb { 143 12 125 }
-	color_ui = rgb { 143 12 125 }
+CMN = {	#コミューン
+	color = rgb { 131 52 63 }
+	color_ui = rgb { 131 52 63 }
 }
 GBR = {	#グレートブリテン
 	color = rgb { 201 56 93 }
@@ -1125,9 +1137,21 @@ STJ = {	#聖ヨハネ
 }
 
 #アフリカ
+EQA = {	#赤道アフリカ
+	color = rgb { 63 96 59 }
+	color_ui = rgb { 63 96 59 }
+}
+MAF = {	#中部アフリカ
+	color = rgb { 90 140 90 }
+	color_ui = rgb { 90 140 90 }
+}
 RHO = {	#ローデシア
 	color = rgb { 15 75 50 }
 	color_ui = rgb { 15 75 50 }
+}
+SSD = {	#南スーダン
+	color = rgb { 49 103 170 }
+	color_ui = rgb { 49 103 170 }
 }
 TAN = {	#タンガニーカ
 	color = rgb { 215 204 28 }

@@ -1,19 +1,23 @@
 #Asia
+BAL	= "countries/Asia.txt"	#バルチスタン
 BRN	= "countries/Asia.txt"	#ブルネイ
 DLI	= "countries/Asia.txt"	#大連
+DVN	= "countries/Asia.txt"	#ドラヴィダ・ナードゥ
+HND	= "countries/Asia.txt"	#ヒンドゥスタン
 INC	= "countries/Asia.txt"	#インドシナ
+INO	= "countries/Asia.txt"	#インド洋
+KAS	= "countries/Asia.txt"	#カシミール
 KIR	= "countries/Asia.txt"	#キリバス
 MHL	= "countries/Asia.txt"	#マーシャル
 NMR	= "countries/Asia.txt"	#ナウル
 SKM	= "countries/Asia.txt"	#シッキム
 SRW	= "countries/Asia.txt"	#サラワク
 TLS	= "countries/Asia.txt"	#東ティモール
-TRK	= "countries/Asia.txt"	#トルキスタン
 TVL	= "countries/Asia.txt"	#ツバル
 TWN	= "countries/Asia.txt"	#台湾
 
 #Middle East
-CCS	= "countries/Middle East.txt"	#コーカサス
+HAS	= "countries/Middle East.txt"	#ハシーム
 JRS	= "countries/Middle East.txt"	#エルサレム
 SYE	= "countries/Middle East.txt"	#南イエメン
 
@@ -21,6 +25,7 @@ SYE	= "countries/Middle East.txt"	#南イエメン
 
 #Western Europe
 ADR	= "countries/Western Europe.txt"	#アンドラ
+CMN	= "countries/Western Europe.txt"	#コミューン
 GBR	= "countries/Western Europe.txt"	#グレートブリテン
 GRL	= "countries/Western Europe.txt"	#グリーンランド
 LIE	= "countries/Western Europe.txt"	#リヒテンシュタイン
@@ -30,12 +35,13 @@ SMR	= "countries/Western Europe.txt"	#サンマリノ
 STJ	= "countries/Western Europe.txt"	#聖ヨハネ
 
 #Eastern Europe
-BLT	= "countries/Eastern Europe.txt"	#バルト
-BYZ	= "countries/Eastern Europe.txt"	#ビザンツ
 RUS	= "countries/Eastern Europe.txt"	#ロシア
 
 #Africa
+EQA	= "countries/Africa.txt"	#赤道アフリカ
+MAF	= "countries/Africa.txt"	#中部アフリカ
 RHO	= "countries/Africa.txt"	#ローデシア
+SSD	= "countries/Africa.txt"	#南スーダン
 TAN	= "countries/Africa.txt"	#タンガニーカ
 WAF	= "countries/Africa.txt"	#西アフリカ
 ZAN	= "countries/Africa.txt"	#ザンジバル

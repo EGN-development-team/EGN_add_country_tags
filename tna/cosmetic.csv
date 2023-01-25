@@ -2,15 +2,17 @@ tag,form,prefix,suffix
 
 ADR,co-principality,,共同公国
 
-AFG,emirate,,首長国
+AFG,kingdom,,王国
 
 ALB,kingdom,,王国
 
+AST,commonwealth,,連邦
+
 ARG,republic,,共和国
 
-AUS,republic,,共和国
+AUS,federation_state,,連邦国
 
-BAH,state,,国
+BAN,kingdom,,王国
 
 BHU,kingdom,,王国
 
@@ -18,11 +20,9 @@ BOL,republic,,共和国
 
 BRA,united_states,,合衆国
 
-BRN,sultanate,,・スルタン国
+BRM,kingdom,,王国
 
 BUL,tsardom,,・ツァール国
-
-BYZ,empire,,帝国
 
 CHI,minguo,,民国
 
@@ -30,15 +30,27 @@ CHL,republic,,共和国
 
 COL,republic,,共和国
 
+COS,republic,,共和国
+
+CUB,republic,,共和国
+
+CZE,republic,,共和国
+
 DEN,kingdom,,王国
 
 DJI,knights_order_state,,騎士団国
 
 DNZ,free_city,自由都市,
 
+DOM,republic,,共和国
+
+ECU,republic,,共和国
+
 EGY,kingdom,,王国
 
 ELS,republic,,共和国
+
+EST,republic,,共和国
 
 ETH,empire,,帝国
 
@@ -46,21 +58,31 @@ FIN,republic,,共和国
 
 FRA,republic,,共和国
 
+FRA,CMN_federation,,・コミューン連邦
+
 GER,reich,,国
 
 GRE,kingdom,,王国
 
 GUA,republic,,共和国
 
+HAI,republic,,共和国
+
 HON,republic,,共和国
 
 HUN,kingdom,,王国
+
+IND,republic,,共和国
 
 IRE,republic,,共和国
 
 IRQ,hashemite_kingdom,,・ハシミテ王国
 
+ITA,social_republic,,社会共和国
+
 KUW,sheikhdom,,首長国
+
+LAT,republic,,共和国
 
 LIB,republic,,共和国
 
@@ -68,9 +90,13 @@ LIE,principality,,侯国
 
 LIT,republic,,共和国
 
+LIB,republic,,共和国
+
 LUX,grand_duchy,,大公国
 
 MCO,principality,,公国
+
+MON,peoples_republic,,人民共和国
 
 MEX,united_states,,合衆国
 
@@ -100,23 +126,31 @@ POL,republic,,共和国
 
 POR,kingdom,,王国
 
+POR,republic,,共和国
+
+PRU,republic,,共和国
+
 ROM,kingdom,,王国
 
-RUS,empire,,帝国
+SAF,union,,連合
 
 SIA,kingdom,,王国
 
 SKM,kingdom,,王国
 
+SLO,republic,,共和国
+
 SMR,most_serene_republic,晴朗極まる共和国,
+
+SOV,union_socialist_republics,,社会主義共和国連邦
 
 SPR,kingdom,,王国
 
-SRL,kingdom,,王国
-
-SRW,raj,,王国
+SPR,republic,,共和国
 
 STJ,knights_order_state,,騎士団国
+
+SRL,kingdom,,王国
 
 SWE,kingdom,,王国
 
@@ -128,7 +162,11 @@ TRC,sheikhdoms,,首長国
 
 TUR,republic,,共和国
 
+TUV,peoples_republic,,人民共和国
+
 URG,oriental_republic,,東方共和国
+
+VAT,city_state,,市国
 
 VEN,republic,,共和国
 
@@ -141,3 +179,10 @@ YUG,kingdom,,王国
 JRS,international_special_administrative_region,,国際特別行政区
 
 ZAN,sultanate,,・スルタン国
+
+BAL,united_kingdom,,連合王国
+
+BEL,kingdom,,王国
+
+KAS,kingdom,,王国
+
