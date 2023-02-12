@@ -96,8 +96,6 @@ LUX,grand_duchy,,大公国
 
 MCO,principality,,公国
 
-MON,peoples_republic,,人民共和国
-
 MEX,united_states,,合衆国
 
 MLD,sultanate,,・スルタン国
@@ -122,7 +120,7 @@ PNG,republic,,共和国
 
 PNG,independent_state,,独立国
 
-POL,republic,,共和国
+POL,most_serene_commonwealth,晴朗極まる共和国,
 
 POR,kingdom,,王国
 
@@ -131,6 +129,12 @@ POR,republic,,共和国
 PRU,republic,,共和国
 
 ROM,kingdom,,王国
+
+RUS,state,,国
+
+RUS,state_far_east_provisional_government,,国極東臨時政府
+
+RUS,SOV_federative_socialist_republic,,ソビエト連邦社会主義共和国
 
 SAF,union,,連合
 
@@ -186,3 +190,44 @@ BEL,kingdom,,王国
 
 KAS,kingdom,,王国
 
+LSO,kingdom,,王国
+
+SWL,kingdom,,王国
+
+CYP,TUR_republic,,・トルコ共和国
+
+CHI,concessions_and_settlements_union_international_mandate,国際委任統治領,租界及び居留地連合
+
+CHI,soviet_peoples_republic,,ソビエト人民共和国
+
+NIG,ma_military_clique,,馬軍閥
+
+QIG,ma_military_clique,,馬軍閥
+
+GND,military_clique,,軍閥
+
+GXC,military_clique,,軍閥
+
+SIK,military_clique,,軍閥
+
+YUN,military_clique,,軍閥
+
+ARM,republic,,共和国
+
+AZR,democratic_republic,,民主共和国
+
+GEO,democratic_republic,,民主共和国
+
+UKR,peoples_republic,,人民共和国
+
+EHB,autonomous_anti_communist_government,,防共自治政府
+
+BUK,khanate,,・ハン国
+
+KHI,khanate,,・ハン国
+
+TRK,republic,,共和国
+
+VIN,empire,,帝国
+
+XIB,bandit_suppression_headquarters,,剿匪総司令部

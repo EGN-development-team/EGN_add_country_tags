@@ -1032,6 +1032,10 @@
 #アメリカ諸州
 ##追加国家
 #アジア
+ ANN:0 "アンナン"
+ ANN_DEF:0 "アンナン"
+ ANN_ADJ:0 "アンナン"
+ 
  BAL:0 "バルチスタン"
  BAL_DEF:0 "バルチスタン"
  BAL_ADJ:0 "バルチスタン"
@@ -1039,6 +1043,10 @@
  BRN:0 "ブルネイ"
  BRN_DEF:0 "ブルネイ"
  BRN_ADJ:0 "ブルネイ"
+ 
+ CCH:0 "コーチシナ"
+ CCH_DEF:0 "コーチシナ"
+ CCH_ADJ:0 "コーチシナ"
  
  DLI:0 "大連"
  DLI_DEF:0 "大連"
@@ -1048,9 +1056,29 @@
  DVN_DEF:0 "ドラヴィダ・ナードゥ"
  DVN_ADJ:0 "ドラヴィダ・ナードゥ"
  
+ EHB:0 "冀東"
+ EHB_DEF:0 "冀東"
+ EHB_ADJ:0 "冀東"
+ 
+ EQH:0 "察東"
+ EQH_DEF:0 "察東"
+ EQH_ADJ:0 "察東"
+ 
+ GAN:0 "甘粛"
+ GAN_DEF:0 "甘粛"
+ GAN_ADJ:0 "甘粛"
+ 
+ GND:0 "広東"
+ GND_DEF:0 "広東"
+ GND_ADJ:0 "広東"
+ 
  HAS:0 "ハシーム"
  HAS_DEF:0 "ハシーム"
  HAS_ADJ:0 "ハシーム"
+ 
+ HEB:0 "河北"
+ HEB_DEF:0 "河北"
+ HEB_ADJ:0 "河北"
  
  HND:0 "ヒンドゥスタン"
  HND_DEF:0 "ヒンドゥスタン"
@@ -1072,6 +1100,30 @@
  KAS_DEF:0 "カシミール"
  KAS_ADJ:0 "カシミール"
  
+ NIG:0 "寧夏"
+ NIG_DEF:0 "寧夏"
+ NIG_ADJ:0 "寧夏"
+ 
+ QAH:0 "察哈爾"
+ QAH_DEF:0 "察哈爾"
+ QAH_ADJ:0 "察哈爾"
+ 
+ QIG:0 "青海"
+ QIG_DEF:0 "青海"
+ QIG_ADJ:0 "青海"
+ 
+ SCH:0 "四川"
+ SCH_DEF:0 "四川"
+ SCH_ADJ:0 "四川"
+ 
+ SGH:0 "上海"
+ SGH_DEF:0 "上海"
+ SGH_ADJ:0 "上海"
+ 
+ SHD:0 "山東"
+ SHD_DEF:0 "山東"
+ SHD_ADJ:0 "山東"
+ 
  SKM:0 "シッキム"
  SKM_DEF:0 "シッキム"
  SKM_ADJ:0 "シッキム"
@@ -1088,9 +1140,21 @@
  TLS_DEF:0 "東ティモール"
  TLS_ADJ:0 "東ティモール"
  
+ TOK:0 "トンキン"
+ TOK_DEF:0 "トンキン"
+ TOK_ADJ:0 "トンキン"
+ 
+ TRK:0 "トルキスタン"
+ TRK_DEF:0 "トルキスタン"
+ TRK_ADJ:0 "トルキスタン"
+ 
  TWN:0 "台湾"
  TWN_DEF:0 "台湾"
  TWN_ADJ:0 "台湾"
+ 
+ XIK:0 "西康"
+ XIK_DEF:0 "西康"
+ XIK_ADJ:0 "西康"
  
 #ヨーロッパ
  ADR:0 "アンドラ"
@@ -1134,6 +1198,10 @@
  EQA_DEF:0 "赤道アフリカ"
  EQA_ADJ:0 "赤道アフリカ"
  
+ LSO:0 "レソト"
+ LSO_DEF:0 "レソト"
+ LSO_ADJ:0 "レソト"
+ 
  MAF:0 "中部アフリカ"
  MAF_DEF:0 "中部アフリカ"
  MAF_ADJ:0 "中部アフリカ"
@@ -1145,6 +1213,10 @@
  SSD:0 "南スーダン"
  SSD_DEF:0 "南スーダン"
  SSD_ADJ:0 "南スーダン"
+ 
+ SWL:0 "スワジランド"
+ SWL_DEF:0 "スワジランド"
+ SWL_ADJ:0 "スワジランド"
  
  TAN:0 "タンガニーカ"
  TAN_DEF:0 "タンガニーカ"
@@ -1163,6 +1235,10 @@
  GRL_DEF:0 "グリーンランド"
  GRL_ADJ:0 "グリーンランド"
  
+ PCZ:0 "パナマ運河地帯"
+ PCZ_DEF:0 "パナマ運河地帯"
+ PCZ_ADJ:0 "パナマ運河地帯"
+ 
 #大洋州
  KIR:0 "キリバス"
  KIR_DEF:0 "キリバス"
@@ -1176,8 +1252,16 @@
  NMR_DEF:0 "ナウル"
  NMR_ADJ:0 "ナウル"
  
+ PCO:0 "太平洋"
+ PCO_DEF:0 "太平洋"
+ PCO_ADJ:0 "太平洋"
+ 
  TVL:0 "ツバル"
  TVL_DEF:0 "ツバル"
  TVL_ADJ:0 "ツバル"
  
 #アメリカ諸州
+ ALS:0 "アラスカ"
+ ALS_DEF:0 "アラスカ"
+ ALS_ADJ:0 "アラスカ"
+ 

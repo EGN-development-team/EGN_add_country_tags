@@ -6,7 +6,11 @@
  AFG_kingdom_DEF:0 "アフガニスタン王国"
  
  
+ ARM_republic:0 "アルメニア共和国"
+ ARM_republic_DEF:0 "アルメニア共和国"
  
+ AZR_democratic_republic:0 "アゼルバイジャン民主共和国"
+ AZR_democratic_republic_DEF:0 "アゼルバイジャン民主共和国"
  
  BAN_kingdom:0 "バングラデシュ王国"
  BAN_kingdom_DEF:0 "バングラデシュ王国"
@@ -17,15 +21,25 @@
  BRM_kingdom:0 "ビルマ王国"
  BRM_kingdom_DEF:0 "ビルマ王国"
  
+ BUK_khanate:0 "ブハラ・ハン国"
+ BUK_khanate_DEF:0 "ブハラ・ハン国"
  
  
  
+ CHI_concessions_and_settlements_union_international_mandate:0 "国際委任統治領中華租界及び居留地連合"
+ CHI_concessions_and_settlements_union_international_mandate_DEF:0 "国際委任統治領中華租界及び居留地連合"
  CHI_minguo:0 "中華民国"
  CHI_minguo_DEF:0 "中華民国"
+ CHI_soviet_peoples_republic:0 "中華ソビエト人民共和国"
+ CHI_soviet_peoples_republic_DEF:0 "中華ソビエト人民共和国"
  
  
  
+ GEO_democratic_republic:0 "グルジア民主共和国"
+ GEO_democratic_republic_DEF:0 "グルジア民主共和国"
  
+ GXC_military_clique:0 "広西軍閥"
+ GXC_military_clique_DEF:0 "広西軍閥"
  
  IND_republic:0 "インド共和国"
  IND_republic_DEF:0 "インド共和国"
@@ -38,6 +52,8 @@
  
  
  
+ KHI_khanate:0 "ヒヴァ・ハン国"
+ KHI_khanate_DEF:0 "ヒヴァ・ハン国"
  
  
  
@@ -54,8 +70,6 @@
  MLD_sultanate:0 "モルディブ・スルタン国"
  MLD_sultanate_DEF:0 "モルディブ・スルタン国"
  
- MON_peoples_republic:0 "モンゴル人民共和国"
- MON_peoples_republic_DEF:0 "モンゴル人民共和国"
  
  NEP_kingdom:0 "ネパール王国"
  NEP_kingdom_DEF:0 "ネパール王国"
@@ -74,6 +88,8 @@
  SIA_kingdom:0 "シャム王国"
  SIA_kingdom_DEF:0 "シャム王国"
  
+ SIK_military_clique:0 "新疆軍閥"
+ SIK_military_clique_DEF:0 "新疆軍閥"
  
  
  SRL_kingdom:0 "スリランカ王国"
@@ -96,14 +112,20 @@
  TUV_peoples_republic_DEF:0 "トゥヴァ人民共和国"
  
  
+ VIN_empire:0 "ベトナム帝国"
+ VIN_empire_DEF:0 "ベトナム帝国"
  
  
+ XIB_bandit_suppression_headquarters:0 "西北剿匪総司令部"
+ XIB_bandit_suppression_headquarters_DEF:0 "西北剿匪総司令部"
  
  
  YEM_mutawakkilite_kingdom:0 "イエメン・ムタワッキリテ王国"
  YEM_mutawakkilite_kingdom_DEF:0 "イエメン・ムタワッキリテ王国"
  
  
+ YUN_military_clique:0 "雲南軍閥"
+ YUN_military_clique_DEF:0 "雲南軍閥"
  
 #ヨーロッパ
  
@@ -129,6 +151,8 @@
  
  
  
+ CYP_TUR_republic:0 "キプロス・トルコ共和国"
+ CYP_TUR_republic_DEF:0 "キプロス・トルコ共和国"
  
  CZE_republic:0 "チェコ共和国"
  CZE_republic_DEF:0 "チェコ共和国"
@@ -206,8 +230,8 @@
  NOR_kingdom_DEF:0 "ノルウェー王国"
  
  
- POL_republic:0 "ポーランド共和国"
- POL_republic_DEF:0 "ポーランド共和国"
+ POL_most_serene_commonwealth:0 "晴朗極まる共和国ポーランド"
+ POL_most_serene_commonwealth_DEF:0 "晴朗極まる共和国ポーランド"
  
  POR_kingdom:0 "ポルトガル王国"
  POR_kingdom_DEF:0 "ポルトガル王国"
@@ -247,6 +271,8 @@
  
  
  
+ UKR_peoples_republic:0 "ウクライナ人民共和国"
+ UKR_peoples_republic_DEF:0 "ウクライナ人民共和国"
  
  VAT_city_state:0 "バチカン市国"
  VAT_city_state_DEF:0 "バチカン市国"
@@ -428,10 +454,21 @@
 #アメリカ諸州
 ##追加国家
 #アジア
+ 
  BAL_united_kingdom:0 "バルチスタン連合王国"
  BAL_united_kingdom_DEF:0 "バルチスタン連合王国"
  
  
+ 
+ 
+ 
+ EHB_autonomous_anti_communist_government:0 "冀東防共自治政府"
+ EHB_autonomous_anti_communist_government_DEF:0 "冀東防共自治政府"
+ 
+ 
+ 
+ GND_military_clique:0 "広東軍閥"
+ GND_military_clique_DEF:0 "広東軍閥"
  
  
  
@@ -444,10 +481,25 @@
  KAS_kingdom:0 "カシミール王国"
  KAS_kingdom_DEF:0 "カシミール王国"
  
+ NIG_ma_military_clique:0 "寧夏馬軍閥"
+ NIG_ma_military_clique_DEF:0 "寧夏馬軍閥"
+ 
+ 
+ QIG_ma_military_clique:0 "青海馬軍閥"
+ QIG_ma_military_clique_DEF:0 "青海馬軍閥"
+ 
+ 
+ 
+ 
  SKM_kingdom:0 "シッキム王国"
  SKM_kingdom_DEF:0 "シッキム王国"
  
  
+ 
+ 
+ 
+ TRK_republic:0 "トルキスタン共和国"
+ TRK_republic_DEF:0 "トルキスタン共和国"
  
  
  
@@ -466,6 +518,12 @@
  NTL_kingdom:0 "ネーデルラント王国"
  NTL_kingdom_DEF:0 "ネーデルラント王国"
  
+ RUS_SOV_federative_socialist_republic:0 "ロシアソビエト連邦社会主義共和国"
+ RUS_SOV_federative_socialist_republic_DEF:0 "ロシアソビエト連邦社会主義共和国"
+ RUS_state:0 "ロシア国"
+ RUS_state_DEF:0 "ロシア国"
+ RUS_state_far_east_provisional_government:0 "ロシア国極東臨時政府"
+ RUS_state_far_east_provisional_government_DEF:0 "ロシア国極東臨時政府"
  
  SMR_most_serene_republic:0 "晴朗極まる共和国サンマリノ"
  SMR_most_serene_republic_DEF:0 "晴朗極まる共和国サンマリノ"
@@ -475,8 +533,14 @@
  
 #アフリカ
  
+ LSO_kingdom:0 "レソト王国"
+ LSO_kingdom_DEF:0 "レソト王国"
  
  
+ 
+ 
+ SWL_kingdom:0 "スワジランド王国"
+ SWL_kingdom_DEF:0 "スワジランド王国"
  
  
  
@@ -485,9 +549,12 @@
  
 #新大陸
  
+ 
 #大洋州
  
  
  
  
+ 
 #アメリカ諸州
+ 
